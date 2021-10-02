@@ -1,5 +1,9 @@
 # Script-Termux
 
+Password kodenuklir
+
+
+
 If You Want ALL Script Use This Link
 https://pastelink.net/3ipao
 
