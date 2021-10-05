@@ -1,0 +1,7 @@
+<?php
+
+$useragent = "xxxx";
+
+$cookie = "xxxx";
+
+//SCRIPT GRATIS, JANGAN RESHARE DITAMBAH PASSWORD! ALLAH MELIHAT APA YANG KAMU KERJAKAN
