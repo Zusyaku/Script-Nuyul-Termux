@@ -1,0 +1,19 @@
+{
+    "walletltc": "/cancel",
+    "walletdoge": "/cancel",
+    "walletzec": "/cancel",
+    "walletbch": "/cancel",
+    "walletbtc": "/cancel",
+    "ref_ltc": "qu0M",
+    "ref_doge": "QeoM",
+    "ref_zec": "mP9O",
+    "ref_bch": "nmlO",
+    "ref_btc": "jYPC",
+    "fitur":{
+        "auto_wd":"on",
+        "msg":"off",
+        "visit":"on",
+        "join":"on",
+        "leave_if_channel_full":"on"
+    }
+}
