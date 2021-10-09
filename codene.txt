@@ -1,0 +1,9 @@
+Code Cài Đặt TERMUX
+ 
+ Code 1: pkg install update && pkg install upgrade
+ code2: pkg install php
+ code 3: pkg install python
+ code4 : pkg install nano
+ code5: pkg install git
+ 
+ [Lưu Ý]: Nếu khi cài code có xuất hiện Y/N thì nhập 'n' và nhấn enter

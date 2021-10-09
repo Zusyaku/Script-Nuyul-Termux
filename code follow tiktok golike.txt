@@ -1,0 +1,26 @@
+https://youtu.be/cuQsTcbwim0
+
+TAB CLOSEALLOTHERS
+ SET !LOOP -3000
+ SET !EXTRACT_TEST_POPUP NO
+ SET !TIMEOUT_PAGE 10
+ SET !ERRORIGNORE YES
+ SET !TIMEOUT_STEP 0.5
+ SET !VAR1 EVAL("var min = 2; var max = 5; var randomNumber = Math.floor(Math.random() * (max - min + 1)) + min; randomNumber;")
+URL GOTO=https://app.golike.net/jobs/tiktok
+TAG POS=6 TYPE=DIV ATTR=TXT:Nh?n<SP>Job<SP>ngay
+WAIT SECONDS={{!VAR1}}
+TAG POS=1 TYPE=A ATTR=TXT:tiktok
+WAIT SECONDS={{!VAR1}}
+TAB T=2
+WAIT SECONDS={{!VAR1}}
+TAG POS=1 TYPE=BUTTON ATTR=TXT:Follow
+WAIT SECONDS={{!VAR1}}
+TAB T=1
+WAIT SECONDS={{!VAR1}}
+TAG POS=1 TYPE=IMG ATTR=SRC:https://app.golike.net/assets/images/icons-new/success.svg
+WAIT SECONDS={{!VAR1}}
+TAG POS=1 TYPE=BUTTON ATTR=TXT:OK
+WAIT SECONDS={{!VAR1}}
+TAB CLOSEALLOTHERS
+WAIT SECONDS={{!VAR1}}
