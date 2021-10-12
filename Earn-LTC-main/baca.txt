@@ -1,0 +1,20 @@
+https://youtu.be/u75KVeW4NLY
+https://play.google.com/store/apps/details?id=com.earncrypto.litecoin
+Key: e9e2aa8136260a22b0b09fdee43ccb8a
+
+
+
+
+ ## Install script with github
+  pkg upgrade && pkg update
+  pkg install git
+  pkg install python
+  pip install requests
+  git clone https://github.com/Musk-ID/Earn-LTC
+  cd Earn-LTC
+  ls
+  python bot.py
+
+  Key: e9e2aa8136260a22b0b09fdee43ccb8a
+
+  ~> Jangan lupa subscribe my chanel FaaL TV <~

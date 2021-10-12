@@ -1,0 +1,11 @@
+$ pkg update && pkg upgrade
+$ pkg install python
+$ pkg install git
+$ pip install requests
+$ pip install bs4
+$ git clone https://github.com/Musk-ID/Tronminer
+$ cd Tronminer
+$ python bot.py
+
+
+https://finance.btron.site/r/49938
