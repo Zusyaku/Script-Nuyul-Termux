@@ -1,0 +1,22 @@
+√Sebelum run scnya lakukan dulu command ini di termux
+
+pip install -r req.txt
+
+✅nolvgrup.txt
+1).Isi dengan username grup yang tidak ingin di leave contoh(@gin_online)
+
+✅nolvprivate.txt
+1).Isi dengan nama grup yang tidak ingin di leave contoh(GiN_Online)
+*cuman namanya yang lengkap
+*kalo bisa diketik yang serupa
+2).isi dengan id grup telegramnya caranya bisa mengunakan telegram plus
+   dan cari id kemudian copykan ke nolvprivate.txt
+
+√Lalu perintah untuk menjalankannya
+
+python leavev3.py +62xxxxx
+
+run on python3.8
+dicompile di python3.8
+
+√Sekian... Salam kompak dan budayakan membaca

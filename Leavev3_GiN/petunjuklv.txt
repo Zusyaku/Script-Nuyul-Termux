@@ -1,0 +1,16 @@
+√Sbelum run sc.a lakukan dulu commad ini di termux
+
+python -m pip install -r requirements.txt
+
+
+✅perintah.a seperti ini
+
+python main.py +628xxxx
+
+Contoh:
+
+python main.py +6281649640655
+
+
+DISARANKAN JANGAN GUNAKAN DI AKUN UTAMA
+Sekian.... Bila ada kekeliruan bertanyalah di group tele kami @kuli_online_channel
