@@ -1,0 +1,11 @@
+✅run2bash.py
+1).masukan list file dari nomor yang mau di buat
+2).buat format untuk menjalankan pythonnya jangan lupa pakai "nomornya" agar nomor bisa ditaruh
+3).buat berapa banyak nomor yg di devnull
+4).buat nama file buat output
+
+√Lalu perintah untuk menjalankannya
+
+python run2bash.py
+
+√Sekian... Salam kompak dan budayakan membaca
