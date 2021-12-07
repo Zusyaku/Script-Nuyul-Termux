@@ -1,0 +1,11 @@
+$ pkg update && pkg upgrade
+$ pkg install python
+$ pkg install git
+$ pip install requests
+$ pip install ini-parser
+$ git clone https://github.com/Musk-ID/Tronbot
+$ cd Tronbot
+$ python trx.py
+
+
+https://faucet77.xyz/
