@@ -1,0 +1,4 @@
+<?php
+
+$cookie = 'Paste Disini';
+
