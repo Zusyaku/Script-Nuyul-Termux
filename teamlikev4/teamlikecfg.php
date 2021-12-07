@@ -1,0 +1,4 @@
+<?php
+$cookie = 'PHPSESSID=ldk0phttoqajt35arth6mjph80;PlusREF=69506;HstCfa4071734=1633960307451;HstCmu4071734=1633960307451;HstCnv4071734=1;HstCns4071734=1;__dtsu=51A01633960309CB50F503C8F3C85ECF;panoramaId_expiry=1634046711267;PESAccExist=zusyaku;HstCla4071734=1633960502801;HstPn4071734=10;HstPt4071734=10';
+$useragent = 'Mozilla/5.0 (Linux; Android 6.0; X9009) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.80 Mobile Safari/537.36';
+?>
