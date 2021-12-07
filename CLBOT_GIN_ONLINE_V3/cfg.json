@@ -1,0 +1,29 @@
+{
+  "wallet_btc":"/cancel",
+  "wallet_ltc":"/cancel",
+  "wallet_bch":"/cancel",
+  "wallet_zec":"/cancel",
+  "wallet_doge":"/cancel",
+  "reff_btc":"xxxx",
+  "reff_ltc":"xxxx",
+  "reff_bch":"xxxx",
+  "reff_doge":"xxxx",
+  "reff_zec":"xxxx",
+  "fitur":{
+    "auto_reff":"off",
+    "msg":"on",
+    "join":"on",
+    "visit":"on",
+    "auto_wd":"off"
+  },
+  "jumlah":{
+      "msg":"50",
+      "join":"50",
+      "visit":"50"
+   },
+  "cf-cookie":{
+    "ua":"xxxx",
+    "limit":"30",
+    "delay":"60"
+  }
+}

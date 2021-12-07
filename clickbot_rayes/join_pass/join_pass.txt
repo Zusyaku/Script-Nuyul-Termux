@@ -1,0 +1,23 @@
+
+CARA PENGGUNAAN SCRIPT AUTO VISIT, MSG, JOIN & WD CLICKBOT
+
+• edit file list.txt isi dengan no agan
+• set wallet di cfg.json
+• jalankan python join.py
+• currency = ltc,doge,btc,zec,bch
+• masukkan password = darkside90
+
+PERINTAH TERMUX
+
+$ pkg update && pkg upgrade
+$ pkg install python
+$ pkg install nano
+$ pip install -r requirements.txt
+$ cd /sdcard/(tempat file)
+$ nano cfg.json
+$ nano list.txt
+$ python join.py
+
+Copyright © Rayez,2020
+
+
