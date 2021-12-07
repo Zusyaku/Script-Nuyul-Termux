@@ -1,0 +1,10 @@
+$ pkg update && pkg upgrade
+$ pkg install git
+$ pkg install python
+$ git clone https://github.com/Musk-ID/Qashbits
+$ cd Qashbits
+$ pip install -r requirements.txt
+$ python main.py
+
+
+https://qashbits.com/?ref=44996
