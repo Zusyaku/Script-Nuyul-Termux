@@ -1,0 +1,2 @@
+<?php
+$cookie = "_ga=GA1.1.1099950015.1633677630;sb_main_becf7aed44ebf6a8eb085ccac6e4df72=1;_rce=ID;AUTH_SYSTEM=9b1fb541a4837422bf394a17f9d9d70e;remember_me=15b3df5186568c2d476bd33f169df449aa29a02580bad6d13b462f8457c240a5;dom3ic8zudi28v8lr6fgphwffqoz0j6c=664a958c-3c72-490b-a53e-10c574645de3%3A2%3A1;sb_count_becf7aed44ebf6a8eb085ccac6e4df72=4;TawkConnectionTime=0;_ga_CYJ3VEJ20G=GS1.1.1633684302.3.0.1633684302.0;zone-cap-4455170=1";
