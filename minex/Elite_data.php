@@ -1,0 +1,20 @@
+<?php
+
+
+/* CONFIG BY FChyd
+SUBSCRIBE CHANNEL AUTHOR E. SCRIPTER
+COPYRIGHT 2020
+ILEGAL TO MODIFY / DECRYPT THIS SCRIPT
+THANKS
+*/
+
+
+# DATA LOGIN
+$email = "xxxxxxx";
+
+$password = "xxxxxxx";
+
+
+
+# SEARCH IN GOOGLE "MY USER AGENT"
+$useragent = "xxxxxxx";
