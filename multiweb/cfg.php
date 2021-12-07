@@ -1,0 +1,12 @@
+<?php
+
+//CRYPTO CLAIM
+$cookie1="XXXXXXXX";
+//TOP FAUCET
+$cookie2="XXXXXXXX";
+//LEME CLAIM
+$cookie3="XXXXXXXX";
+//CRYPTOSY
+$cookie4="XXXXXXXX";
+//MQNICOINS
+$cookie5="XXXXXXXX";
