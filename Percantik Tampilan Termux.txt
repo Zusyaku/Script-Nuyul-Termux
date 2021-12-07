@@ -1,0 +1,52 @@
+[ termux percantik ]
+
+$ pkg upgrade && pkg update
+$ pkg install nano
+$ pkg install toilet
+$ pkg install figlet
+$ pkg install ruby
+$ gem install lolcat
+
+cd ../usr/etc
+nano bash.bashrc
+
+PS1='\033[1;34m\]?-\[\033[1;31m\][R CODE IewilX Login]\[\033[1;30m\]\w
+\[\033[1;34m\]?--\[\033[1;31m\]?\[\033[1;32m\] '
+
+clear
+toilet -f slant "IEWIL" -F gay
+date | lolcat
+
+[ FONT LIST ]
+~ banner
+~ big
+~ block
+~ bubble
+~ digital
+~ ivrit
+~ lean
+~ mini
+~ mnemonic
+~ script
+~ shadow
+~ slant
+~ small
+~ smscript
+~ smshadow
+~ smslant
+~ standard
+~ term
+
+[ FILTER LUST ]
+toilet --filter list
+
+[ LIST WARNA ]
+hitam => \033[0;30m
+putih => \033[1;37m
+abu-abu => \033[1;30m
+merah => \033[1;31m
+hijau => \033[1;32m
+kuning => \033[1;33m
+biru => \033[1;34m
+ungu => \033[1;35m
+cyan => \033[1;36m

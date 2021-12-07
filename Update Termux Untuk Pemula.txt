@@ -1,0 +1,33 @@
+termux-setup-storage
+pkg update
+pkg upgrade
+pkg install wget
+pkg install pip
+pip install requests
+pkg install openssh
+pkg install ssh
+pkg install git
+pkg install php
+pkg install python
+pkg install python2
+pkg install python3
+pkg install curl
+pkg install nano
+pkg install figlet
+pkg install mc
+pkg install lolcat
+pkg install toilet
+pkg install ruby
+pkg install ncurses-utils
+pkg install touch
+pkg install python
+pkg install python2
+pkg install python3
+pip install telethon
+pip install lolcat
+pip install requests
+pip install speedtest-cli
+pip install bs4
+pip install colorama
+pip install rsa
+
