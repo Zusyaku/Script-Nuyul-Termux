@@ -1,0 +1,3 @@
+<?php
+$cookie = "xxxxxx";
+?>

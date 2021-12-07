@@ -1,0 +1,4 @@
+You Should Not Delete Anything From This Folder To Avoid Errors, Thank You.
+Subscribe To My Channel For More Update About The Script.
+
+Copy The Extracted Folder Of The Script Then Put It Outside The Download Folder, (Internal Storage, Do Not Put The Folder Inside Another Folder It Would Make It Harder For You To Path The Folder On Termux)
