@@ -1,0 +1,11 @@
+$ pkg update && pkg upgrade
+$ pkg install python
+$ pkg install git
+$ pip install requests
+$ pip install bs4
+$ git clone https://github.com/Musk-ID/Satoearn
+$ cd Satoearn
+$ python bot.py
+
+
+https://satoearn.com/?ref=416
