@@ -1,0 +1,31 @@
+√Sebelum run scnya lakukan dulu command ini di termux
+
+pip install -r req.txt
+
+✅config.json
+1).Isi dengan nama2 grup yg ingin di join di grup.txt
+2).jika ada group yg di private isi di private.txt
+cth:https://t.me/joinchat/(copy bagian sini dan pastekan ke private.txt)
+4).isi bot dan reffnya
+cth:https://t.me/LitecoinPayLtdBot?start=(copy kode sini dan pastekan ke data.json)
+5).atur delay di json untuk mengatasi jika bot slow respon rata-rata 4-5 detik 
+6).autoblock untuk menghapus dan blok bot agar tidak ngespam dan leave grup setelah nuyul atau wd
+harap di matikan jika ingin menclaim bonus harian
+7).gunakan fitur manual jika sc tidak mendeteksi keyboard bot
+8).isi keyboard dari bot ke keybaord.txt urutkan sesuai jalannya
+note:
+button[x][x]:
+rumusnya
+[ button[0][0] ][ button[0][1] ]
+[ button[1][0] ][ button[1][1] ]
+fakeemail:
+buat email palsu untuk set email
+selalu isi line pertama dari keyboard.txt untuk joined kalau tidak line pertama
+akan tidak terdeteksi
+
+
+√Lalu perintah untuk menjalankannya
+
+python joinv6.py +62xxxxx
+
+√Sekian... Salam kompak dan budayakan membaca

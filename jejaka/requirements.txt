@@ -1,0 +1,12 @@
+beautifulsoup4==4.9.1
+certifi==2020.6.20
+chardet==3.0.4
+idna==2.10
+pyaes==1.6.1
+pyasn1==0.4.8
+pyfiglet==0.8.post1
+requests==2.24.0
+rsa==4.6
+soupsieve==2.0.1
+Telethon==1.16.2
+urllib3==1.25.10

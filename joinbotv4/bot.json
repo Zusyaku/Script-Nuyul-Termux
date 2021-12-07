@@ -1,0 +1,10 @@
+{
+    "bot":"@BitcoinInstantlyPayBot",
+    "code_referral": "636687700",
+    "text_cancel":"🚫 Cancel",
+    "coinbasewallet": "isi alamat email coinbase",
+    "text_claim": "🎁 Bonus",
+    "text_balance":"💰Balance",
+    "text_wd": "Withdraw 💳",
+    "text_confirm":"✅ Confirm"
+}

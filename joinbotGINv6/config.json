@@ -1,0 +1,10 @@
+{
+  "bot": "@FREECASHPAYBOT",
+  "reff": "1311331578",
+  "delay": "4",
+  "fitur": {
+    "manual":"off",
+    "auto_wd": "off"
+  },
+  "autoblock": "off"
+}

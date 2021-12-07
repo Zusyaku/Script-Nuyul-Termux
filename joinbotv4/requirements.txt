@@ -1,0 +1,15 @@
+telethon
+pyaes
+async_generator
+colorama
+requests
+bs4
+beautifulsoup4
+certifi
+chardet
+idna
+pyasn1
+rsa
+soupsieve
+urllib3
+pytz

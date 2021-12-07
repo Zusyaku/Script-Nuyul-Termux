@@ -1,0 +1,18 @@
+{
+  "bot": "@passiv_income_bot",
+  "reff": "862505441",
+  "auto_wd": {
+    "fitur": "on",
+    "delay": "4",
+    "email": "reiyhan.aditya2@gmail.com"
+  },
+  "tombol_manual": {
+    "fitur": "off",
+    "joined": "✅ joined",
+    "bonus": "🎁 Daily Bonus",
+    "balance": "💰 Balance",
+    "wd": "Withdraw 💳",
+    "confirm": "✅ Confirm"
+  },
+  "autoleaveblock": "on"
+}

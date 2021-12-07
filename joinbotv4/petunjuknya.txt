@@ -1,0 +1,30 @@
+﻿√Sbelum run sc.a lakukan dulu commad ini di termux
+
+python -m pip install -r requirements.txt
+
+✅group.txt
+1).Isi dengan nama2 grup yg harus di join/rules bot di grup.txt
+
+✅bot.json
+√(Edit isi file coinbase.json... 
+1).Isi dengan usernamebot/linkbot
+2) copas pesan buat claim di bot 
+3) copas pesan withdraw di bot
+4) isi email coinbase anda
+5) isi code referral(bukan link) biasanya kode referral berada di ujung tanda(=)
+Note: copas harus sama persis, isi sesuai contoh yg ada, jangan asal2 menambahkan botnya lebih dri satu
+
+
+√Lalu perintah untuk menjalankannya
+
+python main.py +628xxxxxx
+
+√Sekian... Salam kompak dan budayakan membaca
+ Bila ada kekeliruan bertanyalah di group tele kami @kuli_online_group
+
+
+
+https://youtu.be/BilrCw9Gk7U
+https://play.google.com/store/apps/details?id=com.foxdebug.acodefree
+note : password file zip nama folder di tambah titik (.) di awal atau di akhir nama folder
+misalkan nama folder clickbotv3 maka passwordnya antara .clickbotv3 atau clickbotv3.

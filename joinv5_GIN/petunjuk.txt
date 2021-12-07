@@ -1,0 +1,22 @@
+√Sebelum run scnya lakukan dulu command ini di termux
+
+pip install -r req.txt
+
+✅data.json
+1).Isi dengan nama2 grup yg ingin di join di grup.txt
+2).jika ada group yg di private isi di private.txt
+cth:https://t.me/joinchat/(copy bagian sini dan pastekan ke private.txt)
+3).bisa untuk wd otomatis dan bisa di matikan jika botnya detect tuyul
+4).isi bot dan reffnya
+cth:https://t.me/LitecoinPayLtdBot?start=(copy kode sini dan pastekan ke data.json)
+5).atur delay di json untuk mengatasi jika bot slow respon
+
+Note:sc ini dapat menghandle tombol keyboard sendiri tapi 
+jika sc tidak bisa menghandlenya gunakan fitur manual 
+dan isi tombol bot di data.json
+
+√Lalu perintah untuk menjalankannya
+
+python joinv4.py +62xxxxx
+
+√Sekian... Salam kompak dan budayakan membaca

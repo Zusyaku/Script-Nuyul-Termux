@@ -1,0 +1,9 @@
+button[0][0]
+🎁 Bonus
+/setChangeMail
+EMAIL@gmail.com
+💳 Withdraw
+0.000005
+/setChangeMail
+fakeemail
+Back 🔙

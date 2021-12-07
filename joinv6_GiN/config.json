@@ -1,0 +1,10 @@
+{
+  "bot": "BTT_distribute_ro1bot",
+  "reff": "Bot861965",
+  "delay": "4",
+  "fitur": {
+    "manual":"off",
+    "auto_wd": "off"
+  },
+  "autoblock": "off"
+}
