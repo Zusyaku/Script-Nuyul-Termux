@@ -1,0 +1,12 @@
+beautifulsoup4
+certifi
+chardet
+idna
+pyaes
+pyasn1
+pyfiglet
+requests
+rsa
+soupsieve
+Telethon
+urllib3
