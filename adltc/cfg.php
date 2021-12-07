@@ -1,19 +1,14 @@
 <?php
-//ISI DATA SESUAI INSTRUKSI DI VIDEO
-//JANGAN LUPA SUBSCRIBE YzZz Tv
+
+/*
+Silahkan isi datanya usahakan dengan benar agar tidak terjadi error
+and jangan lupa subscribe my chanel FaaL TV
+*/
 
 
+// browser
+$browser = "xxxxxxxxxx";
+// cookie
+$cookie = "PHPSESSID=xxxxxxxxxx";
 
-$useragent = "xxxx";
-
-
-
-$ssid_ltc = "xxxx";
-
-$ssid_dgb = "xxxx";
-
-$ssid_trx = "xxxx";
-
-$ssid_doge = "xxxx";
-
-$ssid_btc = "xxxx";
+?>
