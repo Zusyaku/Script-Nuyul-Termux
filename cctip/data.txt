@@ -1,0 +1,21 @@
+https://youtu.be/CBgpVpsn_vs
+https://play.google.com/store/apps/details?id=com.foxdebug.acodefree
+
+pkg update && pkg upgrade
+pkg install nano
+pkg install touch
+pkg install python
+pkg install pip
+pip install telethon
+pip install --upgrade pip
+pip install requests
+pip install bs4
+pip install rsa
+pip install pyaes
+pip install pytz
+pip install async_generator
+pip install colorama
+termux-setup-storage
+cd /sdcard/nama folder yang di dalamny ada script
+ls
+python (namaSc).py

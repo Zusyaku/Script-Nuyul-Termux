@@ -1,0 +1,14 @@
+﻿
+✅pip install -r requirements.txt
+
+python namasc.py +62xx(No.Akun)
+
+Contoh:
+
+python cctip.py +6281649640655
+
+Sekian.... Bila ada kekeliruan bertanyalah di group tele kami @kuli_online_group
+
+
+https://youtu.be/GjtNItIdXQ0
+https://youtu.be/GjtNItIdXQ0
