@@ -1,0 +1,1 @@
+https://api-secure.solvemedia.com/papi/_challenge.js?k=CQxN5NMVQDLellX1B00r1vFRb.Ql9aEq;f=_ACPuzzleUtil.callbacks%5B0%5D;l=en;t=img;s=standard;c=js,h5c,h5ct,svg,h5v,v/h264,v/webm,h5a,a/mp3,a/ogg,ua/chrome,ua/chrome86,os/nt,os/nt10.0,fwv/BdhwNg.lpxi2,cms/wordpress,jslib/jquery,htmlplus;am=VtVFhapXl6NTDTZDqleXow;ca=script;ts=1638732883;ct=1638733731;th=white;r=0.3241452013550652
