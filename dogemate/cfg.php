@@ -1,0 +1,4 @@
+<?
+
+$cookie='xxxxx';
+$user='xxxxx';

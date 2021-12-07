@@ -1,0 +1,23 @@
+<?php
+
+// ISI SEMUA DATA DI BAWAH INI
+// PERHATIKAN BAGAIMANA ADMIN MENGISI DATANYA
+// JANGAN LUPA SUPPORT CHANNEL ADMIN
+
+$user = "xxxx";
+$cookie = "xxxx";
+
+// ISI DENGAN ANGKA 1 JIKA MAU KLAIM
+// ISI DENGAN ANGKA 0 JIKA TIDAK
+
+$BCN = "1";
+$ADA = "0";
+$DASH = "1";
+$DGB = "0";
+$DOGE = "1";
+$LSK = "0";
+$LTC = "1";
+$XMR = "0";
+$RDD = "0";
+$TRX = "1";
+
