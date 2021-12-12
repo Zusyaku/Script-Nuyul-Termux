@@ -1,0 +1,11 @@
+<?php
+//SKIP VIDEO = GAGAL
+/////////////////////////////////////////////////////////
+//      install dlu sebelum jalanin sc
+// pkg install imagemagick
+// pkg install tesseract
+/////////////////////////////////////////////////////////
+$cookie = "xxxx";
+
+$url_solve = "xxxx";
+
