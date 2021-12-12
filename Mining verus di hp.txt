@@ -1,0 +1,41 @@
+#~~Bahan Yang Dibutuhkan~~#
+#~Termux                  #
+#~Androinix               #
+#~~   Perintah Termux   ~~#
+
+https://youtu.be/4e0l-B4ABvY
+
+###################################################
+#        Setup Or Install Ubuntu In Termux        #
+###################################################
+
+1. apt-get update
+2. apt-get upgrade
+3. Paste perintah dari Andronix
+4. ./start-ubuntu.sh (Jika Eror brati kamu salah waktu install ubuntu)
+5. apt-get update
+6. apt-get upgrade
+7. apt install software-properties-common
+8. add-apt-repository ppa:jonathonf/gcc
+9. apt install git build-essential cmake libuv1-dev libssl-dev libmicrohttpd-dev gcc-7 g++-7 libhwloc-dev
+10. apt-get install libcurl4-openssl-dev libssl-dev libjansson-dev automake autotools-dev build-essential
+11. git clone --single-branch -b ARM https://github.com/monkins1010/ccminer.git
+12. cd ccminer
+13. chmod +x build.sh
+14. chmod +x configure.sh
+15. chmod +x autogen.sh
+16. ./build.sh
+
+
+#################################################
+#                 Setup Miner                   #
+#################################################
+
+
+./ccminer  -a verus  -o stratum+tcp://ap.luckpool.net:3956  -u  WALLET.WORKERNAME  -p x  -t CPU
+
+
+Note
+~WALLET isi sama wallet verus kalian
+~WORKERNAME isi bebas Contoh (MrJ)
+~CPU isi sama jumlah core kalian jangan diisi mentok diisi sewajarnya saja (Cpu saya 8 core tapi saya isi 4 core) (Contoh: 4)

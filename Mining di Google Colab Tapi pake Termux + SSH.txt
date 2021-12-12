@@ -1,0 +1,70 @@
+###############################################################
+
+
+!nvidia-smi
+
+https://youtu.be/Jby-UNJyNWE
+
+################################################################################
+
+# Install colab_ssh
+!pip install colab_ssh --upgrade
+
+from colab_ssh import launch_ssh
+launch_ssh('TOKEN YANG KAMU COPY TADI', 'PASSWORD')
+
+Note
+Token : Dapat token dari web ngrok.com
+Password isi bebas
+
+#######################################################################################################################################################################################################################################################################################################################3
+
+lolMiner 
+wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.29/lolMiner_v1.29_Lin64.tar.gz && tar -xf lolMiner_v1.29_Lin64.tar.gz && cd 1.29 && ./lolMiner --algo ETHASH --pool ethash.unmineable.com:3333 --user COIN:WALLET COIN.WORKER NAME#jdqa-6t6l --ethstratum ETHPROXY        
+
+Xmrig
+wget https://github.com/xmrig/xmrig/releases/download/v6.12.1/xmrig-6.12.1-linux-x64.tar.gz && tar -xf xmrig-6.12.1-linux-x64.tar.gz && cd xmrig-6.12.1 && ./xmrig --donate-level 5 -o rx.unmineable.com:3333 -u COIN:WALLET COIN .Workername#jdqa-6t6l -p x -k -a rx/0
+
+
+Note:
+COIN : isi sama nama coin yang mau di mining contoh (DOGE) Note nama coin harus besar smua
+Wallet coin : isi sama wallet address coin yang di mining
+Worker name : isi bebas opsional contoh (hsfjagajs)
+
+#########################################################################################################################################################################################################################################################################################################################
+
+##########################################################################
+                            Jimat Lama
+
+
+
+#@title **Colab Shutdown**
+
+#@markdown To Kill NGROK Tunnel
+NGROK = False #@param {type:'boolean'}
+
+#@markdown To Unmount GDrive
+GDrive = True #@param {type:'boolean'}
+
+#@markdown To Sleep Colab
+Sleep = True #@param {type:'boolean'}
+
+if NGROK:
+    ! killall ngrok
+
+if GDrive:
+    with open('/content/unmount.py', 'w') as unmount:
+        unmount.write("""from google.colab import drive
+drive.flush_and_unmount()""")
+    
+    try:
+        if user:
+            ! runuser $user -c 'python3 /content/unmount.py'
+    except NameError:
+        print("Google Drive not Mounted")
+
+if Sleep:
+    from time import sleep
+    sleep(43200)
+
+##########################################################################
