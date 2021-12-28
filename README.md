@@ -1,13 +1,61 @@
 # Script-Termux
 
+Perintah-Perintah Awal Untuk Menjalankan Program. Pilih sesuai kebutuhan.
+Perintah Program PHP
 
-# Ingin Semua Script Bisa Cek Link Dibawah Ini
-https://pastelink.net/gbsedkvu
+$ pkg update && pkg upgrade
+$ pkg install nano
+$ pkg install php
+$ pkg install git 
+$ pkg install toilet
+$ pkg install figlet
+$ pkg install ruby
+$ pkg install lolcat
+$ pkg install ncurses-utils
+$ termux-setup-storage
+$ cd /sdcard/folder script/
+$ ls
+$ php nama file.php
 
+Perintah Program Python
 
-# Want All This Script Check In Down Here
-https://pastelink.net/gbsedkvu
+$ pkg update && pkg upgrade
+$ pkg install nano
+$ pkg install sentuh
+$ pkg install python
+$ pkg install python2
+$ pkg install python3
+$ pkg install requirements
+$ pkg install pip
+$ pip install telethon
+$ pip install --upgrade pip
+$ pip permintaan install
+$ pip install requests
+$ pip install bs4
+$ pip install rsa
+$ pip install pydes
+$ pip install pytz
+$ pip install dsync_generator
+$ pip install colorama
+$ termux-setup-storage
+$ cd /sdcard/folder file
+$ ls
+$ python nama file.py
 
+Perintah Program BASH / SH
+
+$ pkg update && pkg upgrade
+$ pkg install nano
+$ pkg install bash
+$ pkg install git 
+$ pkg install toilet
+$ pkg install figlet
+$ pkg install ruby
+$ pkg install lolcat
+$ pkg install ncurses-utils
+$ termux-setup-storage
+$ cd /sdcard/folder file
+$ bash nama file.sh
 
 
 # Indonesia
