@@ -1,0 +1,1 @@
+https://api-secure.solvemedia.com/papi/_challenge.js?k=AN6OnTvQWRXIIFQsZOxXfbs0IkVMU7dy;f=_ACPuzzleUtil.callbacks%5B0%5D;l=en;t=img;s=standard;c=js,h5c,h5ct,svg,h5v,v/h264,v/webm,h5a,a/mp3,a/ogg,ua/chrome,ua/chrome88,os/android,os/android9,fwv/BYywUQ.vfeu49,jslib/jquery,htmlplus;am=D42lgGdEzawKAuyEZ0TNrA;ca=ajax;ts=1643762740;ct=1643785569;th=white;r=0.7168053387387541
